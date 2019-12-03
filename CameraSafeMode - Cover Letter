@@ -1,0 +1,59 @@
+
+*Please make a copy of this document and include this in your GitHub repository for your submission, using the tag #AndroidDevChallenge*
+
+Tell us what your idea is. 
+App Name: CameraSafeMode
+
+Feature1: Analyzing Camera preview for danger and warn user.
+My idea is about showing a warning or closing camera preview when user is trying to take selfie at extreme danger places or positions. There are many lives gone while taking picture at dangerous places. Camera preview will be analyzed using ML and will warn user regarding the danger zone. 
+Examples: 
+•	Activity at extreme height with large water bodies or mountain trench behind.
+•	Capturing picture during Amusement Park Rides. 
+•	Taking picture/video on motorbike with high speed 
+•	Taking picture with fast moving vehicles, trains.
+•	Users without life vest behind the large water bodies.
+•	Not wearing helmet while capturing at high speed.
+
+Feature2: Analyzing user location and show the extreme danger points before user steps into the radius.
+Usage of Location Coordinates: Apart from camera preview we can define the latitude and longitude of extreme danger places. When user is in the radius of those location coordinates and trying to capture photo or video camera will show warning or stop preview.
+It will help people to remind and taking safety precautions before taking any picture. User need to explicitly turn off the settings to disable the feature which will clearly mention about the warnings associated with the feature.
+ Describe in 250 words what the feature or service will do and how you’ll use Machine Learning to push the bar:
+
+
+
+Tell us how you plan on bringing it to life. 
+My plan is to first build a camera app which can analyze the previews using ML regarding danger and show the warnings to user. Next will include the location-based warning feature. 
+
+Google’s Help:
+•	Need to train models regarding danger photos.
+•	Explore Firebase ML-Kit and on device machine learning.
+•	Google location API’s which can provide location coordinates of extreme danger places.
+
+Next: If this app shows success results I want to provide this feature in native camera with Safe Mode enabled by default.
+ Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
+●	(1) any potential sample code you’ve already written, 
+●	(2) a list of the ways you could use Google’s help, 
+●	(3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
+
+
+
+Tell us about you. 
+I am working as Android Developer with Mastercard. I have totally 7+ years of experience in developing Android Apps. I am currently associated with various payments related products in Mastercard and helping teams to get better with Android Development. I am active participant of GDG-Baroda Community. 
+I love to explore new platform features and using them into apps.
+Harsh Tak: https://projectshowcase.me/harshfast
+
+
+
+  A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
+
+
+
+
+Next steps.  
+  
+●	Be sure to include this cover letter in your GitHub repository
+●	Your GitHub repository should be tagged #AndroidDevChallenge
+●	Don’t forget to include other items in your GitHub repository to help us evaluate your submission; you can include prior projects you've worked on, sample code you've already built for this project, or anything else you think could be helpful in evaluating your concept and your ability to build it
+●	The final step is to fill out this form to officially submit your proposal. 
+
+
