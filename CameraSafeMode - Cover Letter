@@ -1,7 +1,7 @@
 
-*Please make a copy of this document and include this in your GitHub repository for your submission, using the tag #AndroidDevChallenge*
 
-Tell us what your idea is. 
+Tell us what your idea is.
+
 App Name: CameraSafeMode
 
 Feature1: Analyzing Camera preview for danger and warn user.
@@ -17,36 +17,28 @@ Examples:
 Feature2: Analyzing user location and show the extreme danger points before user steps into the radius.
 Usage of Location Coordinates: Apart from camera preview we can define the latitude and longitude of extreme danger places. When user is in the radius of those location coordinates and trying to capture photo or video camera will show warning or stop preview.
 It will help people to remind and taking safety precautions before taking any picture. User need to explicitly turn off the settings to disable the feature which will clearly mention about the warnings associated with the feature.
- Describe in 250 words what the feature or service will do and how you’ll use Machine Learning to push the bar:
+ 
 
+Tell us how you plan on bringing it to life.
 
-
-Tell us how you plan on bringing it to life. 
 My plan is to first build a camera app which can analyze the previews using ML regarding danger and show the warnings to user. Next will include the location-based warning feature. 
 
 Google’s Help:
-•	Need to train models regarding danger photos.
-•	Explore Firebase ML-Kit and on device machine learning.
+•	Need to train models using photos with danger.
+•	Explore Firebase ML-Kit and on device machine learning options.
 •	Google location API’s which can provide location coordinates of extreme danger places.
 
 Next: If this app shows success results I want to provide this feature in native camera with Safe Mode enabled by default.
- Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
-●	(1) any potential sample code you’ve already written, 
-●	(2) a list of the ways you could use Google’s help, 
-●	(3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
 
+Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
+Sample code is not available yet but will be startring soon to work on it.
+Looking for ML guy to prepare the model which can analyse photos with danger.
 
 
 Tell us about you. 
 I am working as Android Developer with Mastercard. I have totally 7+ years of experience in developing Android Apps. I am currently associated with various payments related products in Mastercard and helping teams to get better with Android Development. I am active participant of GDG-Baroda Community. 
 I love to explore new platform features and using them into apps.
 Harsh Tak: https://projectshowcase.me/harshfast
-
-
-
-  A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
-
-
 
 
 Next steps.  
